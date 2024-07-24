@@ -1,2 +1,2 @@
-# Calorie Tracker
-Calorie App
+# Fitness-Tracker
+Fitness App
